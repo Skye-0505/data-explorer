@@ -1,0 +1,101 @@
+pet_id|pet_name|pet_type|pet_age|visit_type|check_items|visit_fee|visit_date
+P001|Nuomi|Cat|3|Routine Check-up|Blood Routine + Weight Monitoring|120|2024-05-02
+P002|Meiqiu|Dog|-2|Disease Treatment|Blood Routine + Fecal Examination|280|2024-05-05
+P003|Buding|Cat|5|Vaccination|Feline Triple Vaccine|150|2024-05-08
+P004|Kele|Dog|1|Routine Check-up|Weight Monitoring + Skin Examination|90|2024-05-10
+P005|Xueqiu|Rabbit|2|Disease Treatment|Digestive System Examination|320|2024-05-12
+P006|Mangguo|Cat|1|Vaccination|Feline Triple Vaccine + Deworming|180|
+P007|Heidou|Dog|4|Routine Check-up|Blood Routine + Liver Function Test|200|2024-05-03
+P008|Naitang|Cat|2|Disease Treatment|Urinary System Examination|260|2024-05-06
+P009|Afu|Dog|6|Vaccination|Canine Hexavalent Vaccine|140|2024-05-09
+P010|Tiaotiao|Rabbit|1|Routine Check-up|Weight Monitoring + Oral Examination|80|2024-05-11
+P011|Chengzi|Cat|7|Disease Treatment|Respiratory Tract Examination|290|2024-05-13
+P012|Huihui|Dog|3|Grooming Bath|Skin Examination + Joint Examination|130|2024-05-15
+P013|Tangyuan|Cat|2|Vaccination|Feline Triple Vaccine + Rabies Vaccine|210|
+P014|Heibao|Dog|5|Disease Treatment|Gastrointestinal Function Examination|270|2024-05-19
+P015|Huahua|Rabbit|3|Routine Check-up|Digestive System Examination + Weight Monitoring|110|2024-05-21
+P016|Youzi|Cat|4|Routine Check-up|Blood Routine + Renal Function Test|170|2024-05-23
+P017|Dahuang|Dog|2|Vaccination|Canine Hexavalent Vaccine + Deworming|160|2024-05-25
+P018|Beibei|Cat|1|Disease Treatment|Skin Inflammation Examination|240|2024-05-27
+P019|Lala|Dog|7|Routine Check-up|Heart Examination + Blood Pressure Monitoring|220|2024-05-29
+P020|Duoduo|Rabbit|2|Vaccination|Rabbit Plague Vaccine|120|2024-05-04
+P021|Putao|Cat|5|Disease Treatment|Ophthalmic Examination|250|2024-05-07
+P022|Xiaobai|Dog|3|Routine Check-up|Oral Examination + Teeth Cleaning|150|2024-05-14
+P023|Pangpang|Cat|6|Vaccination|Feline Triple Vaccine|150|2024-05-16
+P024|Doudou|Dog|4|Disease Treatment|Bone Examination|280|2024-05-18
+P025|Tiantian|Rabbit|1|Routine Check-up|Hearing Test + Weight Monitoring|90|
+P026|Lizhi|Cat|2|Routine Check-up|Blood Routine + Skin Examination|130|2024-05-22
+P027|Dangdang|Dog|5|Vaccination|Canine Hexavalent Vaccine|140|2024-05-24
+P028|Maomao|Cat|3|Disease Treatment|Digestive System Examination|260|2024-05-26
+P029|Duoduo|Dog|1|Routine Check-up|Weight Monitoring + Blood Routine|100|2024-05-28
+P030|Qiuqiu|Rabbit|3|Vaccination|Rabbit Plague Vaccine + Deworming|130|2024-05-30
+P031|Caomei|Cat|4|Disease Treatment|Respiratory Tract Examination|270|2024-05-02
+P032|Kele|Dog|2|Routine Check-up|Liver Function Test + Skin Examination|160|2024-05-05
+P033|Ningmeng|Cat|6|Vaccination|Feline Triple Vaccine + Rabies Vaccine|220|2024-05-08
+P034|Hari|Dog|3|Disease Treatment|Urinary System Examination|290|2024-05-10
+P035|Moli|Rabbit|2|Routine Check-up|Oral Examination + Digestive System Examination|100|2024-05-12
+P036|Taozi|Cat|1|Routine Check-up|Weight Monitoring + Blood Routine|90|2024-05-15
+P037|Agui|Dog|7|Vaccination|Canine Hexavalent Vaccine + Deworming|170|2024-05-17
+P038|Niuniu|Cat|5|Disease Treatment|Ophthalmic Examination|250|2024-05-19
+P039|Shitou|Dog|4|Routine Check-up|Heart Examination + Joint Examination|210|2024-05-21
+P040|Baihe|Rabbit|1|Vaccination|Rabbit Plague Vaccine|120|2024-05-23
+P041|Xigua|Cat|2|Disease Treatment|Gastrointestinal Function Examination|260|2024-05-25
+P042|Tanke|Dog|3|Routine Check-up|Blood Routine + Renal Function Test|160|2024-05-27
+P043|Yingtao|Cat|6|Vaccination|Feline Triple Vaccine|150|2024-05-29
+P044|Niuniu|Dog|5|Disease Treatment|Skin Inflammation Examination|240|2024-05-01
+P045|Meigui|Rabbit|2|Routine Check-up|Weight Monitoring + Hearing Test|80|2024-05-03
+P046|Boluo|Cat|1|Routine Check-up|Skin Examination + Oral Examination|130|2024-05-06
+P047|Baozi|Dog|4|Vaccination|Canine Hexavalent Vaccine|140|2024-05-09
+P048|Haitang|Cat|3|Disease Treatment|Bone Examination|280|2024-05-11
+P049|Kele|Dog|2|Routine Check-up|Blood Pressure Monitoring + Blood Routine|120|2024-05-13
+P050|Dingxiang|Rabbit|3|Vaccination|Rabbit Plague Vaccine + Deworming|130|2024-05-14
+P051|Pingguo|Cat|5|Disease Treatment|Respiratory Tract Examination|270|2024-05-16
+P052|Huzi|Dog|1|Routine Check-up|Liver Function Test + Weight Monitoring|100|2024-05-18
+P053|Xiangjiao|Cat|7|Vaccination|Feline Triple Vaccine + Rabies Vaccine|220|2024-05-20
+P054|Laifu|Dog|6|Disease Treatment|Urinary System Examination|290|2024-05-22
+P055|Yulan|Rabbit|2|Routine Check-up|Digestive System Examination + Oral Examination|110|2024-05-24
+P056|Shanzha|Cat|3|Routine Check-up|Blood Routine + Ophthalmic Examination|150|2024-05-26
+P057|Xiaobai|Dog|4|Vaccination|Canine Hexavalent Vaccine + Deworming|170|2024-05-28
+P058|Guiyuan|Cat|2|Disease Treatment|Gastrointestinal Function Examination|260|2024-05-30
+P059|Xiaohei|Dog|5|Routine Check-up|Heart Examination + Skin Examination|210|2024-05-02
+P060|Zijing|Rabbit|1|Vaccination|Rabbit Plague Vaccine|120|2024-05-04
+P061|Mihoutao|Cat|6|Disease Treatment|Joint Examination|250|2024-05-07
+P062|Dahuang|Dog|3|Routine Check-up|Renal Function Test + Weight Monitoring|160|2024-05-09
+P063|Shiliu|Cat|1|Vaccination|Feline Triple Vaccine|150|
+P064|Niuniu|Dog|4|Disease Treatment|Skin Inflammation Examination|240|2024-05-13
+P065|Ziwei|Rabbit|2|Routine Check-up|Hearing Test + Digestive System Examination|90|2024-05-15
+P066|Huolongguo|Cat|2|Routine Check-up|Oral Examination + Blood Routine|130|2024-05-17
+P067|Doudou|Dog|5|Vaccination|Canine Hexavalent Vaccine|140|2024-05-19
+P068|Haitang|Cat|3|Disease Treatment|Ophthalmic Examination|250|2024-05-21
+P069|Shitou|Dog|7|Routine Check-up|Blood Pressure Monitoring + Heart Examination|220|2024-05-23
+P070|Mudan|Rabbit|1|Vaccination|Rabbit Plague Vaccine + Deworming|130|2024-05-25
+P071|Caomei|Cat|4|Disease Treatment|Bone Examination|280|2024-05-27
+P072|Afu|Dog|2|Routine Check-up|Liver Function Test + Skin Examination|160|2024-05-29
+P073|Mangguo|Cat|6|Vaccination|Feline Triple Vaccine + Rabies Vaccine|220|2024.05.01
+P074|Lala|Dog|3|Disease Treatment|Respiratory Tract Examination|270|2024-05-03
+P075|Moli|Rabbit|2|Routine Check-up|Weight Monitoring + Oral Examination|100|2024-05-06
+P076|Taozi|Cat|1|Routine Check-up|Blood Routine + Urinary System Examination|120|
+P077|Tanke|Dog|5|Vaccination|Canine Hexavalent Vaccine|140|2024-05-10
+P078|Guiyuan|Cat|4|Disease Treatment|Gastrointestinal Function Examination|260|2024-05-12
+P079|Xiaohei|Dog|1|Routine Check-up|Renal Function Test + Weight Monitoring|90|2024-05-14
+P080|Dingxiang|Rabbit|3|Vaccination|Rabbit Plague Vaccine|120|2024-05-16
+P081|Pingguo|Cat|2|Disease Treatment|Skin Inflammation Examination|240|2024-05-18
+P082|Huzi|Dog|6|Routine Check-up|Heart Examination + Joint Examination|210|2024-05-20
+P083|Xiangjiao|Cat|7.5|Vaccination|Feline Triple Vaccine|150|2024-05-22
+P084|Laifu|Dog|4|Disease Treatment|Ophthalmic Examination|250|2024-05-24
+P085|Yulan|Rabbit|2|Routine Check-up|Digestive System Examination + Hearing Test|110|2024-05-26
+P086|Shanzha|Cat|3|Routine Check-up|Blood Routine + Blood Pressure Monitoring|150|2024-05-28
+P087|Xiaobai|Dog|5|Vaccination|Canine Hexavalent Vaccine + Deworming|170|2024-05-30
+P088|Boluo|Cat|1|Disease Treatment|Bone Examination|280|2024-05-02
+P089|Baozi|Dog|2|Routine Check-up|Liver Function Test + Blood Routine|100|2024-05-05
+P090|Meigui|Rabbit|3|Vaccination|Rabbit Plague Vaccine + Deworming|130|2024-05-07
+P091|Lizhi|Cat|4|Disease Treatment|Respiratory Tract Examination|270|2024-05-09
+P092|Dangdang|Dog|6|Boarding Service|Skin Examination + Oral Examination|160|2024-05-11
+P093|Baihe|Cat|5|Vaccination|Feline Triple Vaccine + Rabies Vaccine|220|2024-05-13
+P094|Duoduo|Dog|3|Disease Treatment|Urinary System Examination|290|2024-05-15
+P095|Zijing|Rabbit|2|Routine Check-up|Weight Monitoring + Digestive System Examination|100|2024-05-17
+P096|Mihoutao|Cat|1|Routine Check-up|Blood Routine + Ophthalmic Examination|90|2024-05-19
+P097|Dahuang|Dog|7|Vaccination|Canine Hexavalent Vaccine|140|2024-05-21
+P098|Shiliu|Cat|2|Disease Treatment|Gastrointestinal Function Examination|260|2024-05-23
+P099|Niuniu|Dog|4|Routine Check-up|Heart Examination + Renal Function Test|210|2024-05-25
+P100|Mudan|Rabbit|-3|Vaccination|Rabbit Plague Vaccine|120|2024-05-27
